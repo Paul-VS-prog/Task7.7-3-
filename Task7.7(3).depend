@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1606307446 source:c:\users\ryumi\desktop\task7.7(3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1606392689 source:c:\users\ryumi\desktop\task7.7(3)\main.cpp
+	<string>
+	<string.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<blberr.h>
+
